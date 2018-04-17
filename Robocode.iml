@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/exec/robots" />
+    <output-test url="file://$MODULE_DIR$/test/Robocode" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Sample Robots" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Student Robot" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Solution Source" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/config" />
+      <excludeFolder url="file://$MODULE_DIR$/exec" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="robocode-libs" level="project" />
+  </component>
+</module>
